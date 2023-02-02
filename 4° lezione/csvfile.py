@@ -19,6 +19,6 @@ class CSVFile():
         return lista
 
 
-csv_file = CSVFile("shampoo_sales.csv")
-data = csv_file.get_data()  #ho sfruttato la funzione get_data alla classe
-print(data)
+#csv_file = CSVFile("shampoo_sales.csv")
+#data = csv_file.get_data()  #ho sfruttato la funzione get_data alla classe
+#print(data)
