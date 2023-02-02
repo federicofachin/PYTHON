@@ -15,5 +15,5 @@ def sum_csv(file_name):
         return sum(values)
    
 
-#risultato=(sum_csv('shampoo_sales.csv'))
-#print('La somma degli elementi è uguale a: {}'.format(risultato))
+risultato=(sum_csv('shampoo_sales.csv'))
+print('La somma degli elementi è uguale a: {}'.format(risultato))

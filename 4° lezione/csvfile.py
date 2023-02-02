@@ -14,7 +14,7 @@ class CSVFile():
                 forma = elements[0]
                 value = elements[1]
                 lista.append([forma, value])
-                #print("elements:{}{}",len(forma),len(value))
+               # print("elements:{}{}",len(forma),len(value))
         file.close()
         return lista
 
