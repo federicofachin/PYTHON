@@ -42,6 +42,6 @@ class CSVFile():
                     lista.append(elements)
         file.close()
         return lista
-csv_file=CSVFile("shampoo_sales.csv")
-data=csv_file.get_data()
-print(data)
+#csv_file=CSVFile("shampoo_file.csv")
+#data=csv_file.get_data()
+#print(data)
